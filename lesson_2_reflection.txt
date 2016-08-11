@@ -10,13 +10,22 @@ The staging area lets you choose specific files to be saved with a commit, insid
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+The staging area can organize what specific files to change. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches can keep the files organized by providing separate versions of a file. If one version has an attribute(ie easy-mode in asteroids) that the other does not, it will be easy to categorize. 
+
 How do the diagrams help you visualize the branch structure?
+
+Diagram help visualize the abstract concepts of how git works.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches together makes them one branch. We represent it in a diagram because it helps us understand how two different work flows will nicely combine into one. 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+The pros of auto merging is that it is faster, but the cons are that it can cause conflicts. Vice versa for manually. 
