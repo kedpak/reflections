@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Why not use git/github? That is the better question. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	One would make changes in a separate branch when one wants two separate versions of the file. The benefit of having separate branches allows multiple versions which allows flexibility. 
